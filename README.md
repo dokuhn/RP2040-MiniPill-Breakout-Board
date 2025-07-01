@@ -8,7 +8,10 @@
 
 </p>
 
-![RP2040-MiniPill-Breakout-Board_top](./Renderings/RP2040-MiniPill-Breakout-Board_top.png) 
+| <img src="./Renderings/RP2040-MiniPill-Breakout-Board_top.png" alt="RP2040-MiniPill-Breakout-Board_top" height="600px"/>  |  <img src="./Renderings/RP2040-MiniPill-Breakout-Board.gif"  alt="RP2040-MiniPill-Breakout-Board_animation" height="600px"/> |
+| :------: | :------: |
+| Top | Animation |
+
 
 
 ## License 
