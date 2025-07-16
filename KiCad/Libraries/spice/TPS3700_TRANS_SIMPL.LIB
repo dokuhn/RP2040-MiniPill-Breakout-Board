@@ -1,0 +1,27 @@
+* Vereinfachtes TPS3700-Modell für ngspice
+* Pins: VDD INA INB OUTA OUTB GND
+
+.SUBCKT TPS3700_SIMPL VDD INA INB OUTA OUTB GND
+
+* Versorgungstrennung (virtuelle interne Versorgung)
+R_VDD VDD INT_VDD 1MEG
+R_GND GND INT_GND 1MEG
+
+* === OUTA LOGIK ===
+* Eingang mit Hysterese
+EHYST_A NCTRL_A 0 VALUE = { V(INA) - 0.3945 }
+
+* Open-Drain-Ausgang: Schalter nach Masse
+SOUTA OUTA GND NCTRL_A CTRL_GND SW_MOD
+
+* === OUTB LOGIK ===
+EHYST_B NCTRL_B 0 VALUE = { V(INB) - 0.4 }
+SOUTB OUTB GND NCTRL_B CTRL_GND SW_MOD
+
+* Kontrollreferenz
+VCTRL_GND CTRL_GND 0 0
+
+* Schaltermodell (Open-Drain-Switch)
+.model SW_MOD SW(Ron=10 Roff=1Meg Vt=0 Vh=0)
+
+.ENDS TPS3700_SIMPL
