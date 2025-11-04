@@ -5878,6 +5878,17 @@
 		)
 		(uuid a6bf13d3-fd50-450f-98e8-ba6a5034fcfc)
 	)
+	(text "NC"
+		(exclude_from_sim no)
+		(at 198.628 120.904 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3fbbe741-984b-42f7-9d23-2e68b1419567")
+	)
 	(text "Over- and Undervoltage monitoring"
 		(exclude_from_sim no)
 		(at 98.298 58.674 0)
@@ -5887,6 +5898,17 @@
 			)
 		)
 		(uuid "58af88c5-8f4b-497c-a433-982a439112b5")
+	)
+	(text "NC"
+		(exclude_from_sim no)
+		(at 198.628 115.824 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7d7c3d28-a15b-4ca7-a9c2-179fc9e3e8f9")
 	)
 	(text "RP2040 MiniPill LoRa - Pinout"
 		(exclude_from_sim no)
@@ -13168,16 +13190,6 @@
 		)
 		(uuid "1984f51a-6cf1-4527-ae54-bb12b63fe643")
 	)
-	(label "NC"
-		(at 198.882 116.586 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1cbc04ff-790b-4bcc-b27b-c8b06c2f4b24")
-	)
 	(label "G8"
 		(at 235.712 103.886 0)
 		(effects
@@ -13517,16 +13529,6 @@
 			(justify left bottom)
 		)
 		(uuid "f460432b-a997-47d6-aeef-ec5d5a3a7da4")
-	)
-	(label "NC"
-		(at 198.882 121.666 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fe3fad87-ca0c-489f-b4c8-e0ad08c0744f")
 	)
 	(symbol
 		(lib_id "Transistor_FET:IRLML6402")
@@ -14387,34 +14389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Library" "Libraries/spice/TPS3700_TRANS_SIMPL.LIB"
-			(at 77.724 101.092 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "TPS3700_SIMPL"
-			(at 77.724 101.092 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 77.724 101.092 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=OUTA 2=GND 3=INA 4=INB 5=VDD 6=OUTB"
+		(property "LCSC" "C33002"
 			(at 77.724 101.092 0)
 			(effects
 				(font
