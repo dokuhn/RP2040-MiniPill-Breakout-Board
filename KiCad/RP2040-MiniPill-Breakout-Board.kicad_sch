@@ -13586,6 +13586,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2593"
+			(at 118.872 85.852 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "53857c23-6b37-46ee-ac5a-71e30192af26")
 		)
@@ -13650,6 +13659,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.753 100.203 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22775"
 			(at 55.753 100.203 0)
 			(effects
 				(font
@@ -13789,6 +13807,15 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
+			(at 37.084 101.092 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5290181"
 			(at 37.084 101.092 0)
 			(effects
 				(font
@@ -14250,6 +14277,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22962"
+			(at 55.753 110.998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "634d518a-3533-42da-9032-df5cb8247a77")
 		)
@@ -14283,14 +14319,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 113.792 91.9479 0)
+		(property "Value" "100n"
+			(at 113.03 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
@@ -14312,6 +14347,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 110.744 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 110.744 90.678 0)
 			(effects
 				(font
@@ -14608,6 +14652,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2589"
+			(at 116.332 116.586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "b5bb2fb9-8505-4d3f-93bb-b76dcdbbb02c")
 		)
@@ -14670,6 +14723,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 139.446 83.312 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C223608"
 			(at 139.446 83.312 0)
 			(effects
 				(font
