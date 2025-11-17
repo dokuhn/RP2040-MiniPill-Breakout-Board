@@ -7,6 +7,7 @@
 	(title_block
 		(title "RP2040-MiniPill-Breakout-Board")
 		(date "2025-09-29")
+		(company "OpenLab-Saar")
 	)
 	(lib_symbols
 		(symbol "Conn_01x20_Socket_1"
@@ -13745,6 +13746,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C861451"
+			(at 90.932 90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19e9d774-e3a3-4185-ac3d-ba2cf4b79171")
 		)
@@ -13893,6 +13903,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C861451"
+			(at 101.6 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e829c0e-c24a-48f9-8706-8f39e6df705e")
 		)
@@ -13955,6 +13974,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 244.856 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C915914 (4x)"
 			(at 244.856 103.886 0)
 			(effects
 				(font
@@ -14526,6 +14554,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C915914 (4x)"
+			(at 189.23 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "19"
 			(uuid "90242f29-b86d-40c3-94d1-9f319a9ae682")
 		)
@@ -14801,6 +14838,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 118.872 105.156 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C861451"
 			(at 118.872 105.156 0)
 			(effects
 				(font
@@ -15125,6 +15171,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.753 89.408 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22975"
 			(at 55.753 89.408 0)
 			(effects
 				(font

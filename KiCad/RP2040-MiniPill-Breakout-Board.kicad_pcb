@@ -9407,7 +9407,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "2204.7244"
+		(gr_text "56"
 			(at 144.2 141.15 0)
 			(layer "Cmts.User")
 			(uuid "0770493f-aeb1-43e8-8bfc-ce1065364307")
@@ -9445,7 +9445,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "187.0079"
+		(gr_text "4.75"
 			(at 137.55 63.825 90)
 			(layer "Cmts.User")
 			(uuid "310fb075-3b11-4e16-af8b-fce77de08ad2")
@@ -9483,7 +9483,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1712.5984"
+		(gr_text "43.5"
 			(at 144.2 135.65 0)
 			(layer "Cmts.User")
 			(uuid "37c04b10-f9c2-45de-9791-61104e8b39ba")
@@ -9521,7 +9521,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "2283.4646"
+		(gr_text "58"
 			(at 178.05 94.7 90)
 			(layer "Cmts.User")
 			(uuid "4c51b77f-8a2e-4273-b000-60a40d786977")
@@ -9559,7 +9559,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "2834.6457"
+		(gr_text "72"
 			(at 185.15 94.7 90)
 			(layer "Cmts.User")
 			(uuid "8bd5fda0-152a-481a-a26d-d0e5eb16d825")
@@ -9597,7 +9597,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "187.5984"
+		(gr_text "4.765"
 			(at 138.55 120.5675 90)
 			(layer "Cmts.User")
 			(uuid "d2285977-cc87-4e5d-bdaa-92cd624456c4")
@@ -9635,7 +9635,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "900"
+		(gr_text "22.86"
 			(at 144.2 54.1 0)
 			(layer "Cmts.User")
 			(uuid "e9ba9ae6-a354-4eae-83de-03a45d0750ad")
