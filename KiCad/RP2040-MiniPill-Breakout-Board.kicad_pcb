@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "RP2040 MiniPill BreakoutBoard")
+		(date "2025-11-18")
+		(rev "1.0.0")
+		(company "OpenLab-Saar")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -9276,7 +9282,7 @@
 		(layer "Edge.Cuts")
 		(uuid "f9e4d667-8d2f-4d09-8c0d-442d150554c4")
 	)
-	(gr_text " Rev 1.0 -2025.11 \n by OpenLab-Saar "
+	(gr_text " Rev 1.0.0 -2025.11 \n by OpenLab-Saar "
 		(at 144.35 81.3 0)
 		(layer "F.SilkS")
 		(uuid "122fd741-18c9-44dc-9800-30ec480700cd")

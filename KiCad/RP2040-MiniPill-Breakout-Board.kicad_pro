@@ -661,8 +661,8 @@
       "model_mode": 4,
       "workbook_filename": "RP2040-MiniPill-Breakout-Board.wbk"
     },
-    "page_layout_descr_file": "",
-    "plot_directory": "../Renderings/",
+    "page_layout_descr_file": "openlab-saar.kicad_wks",
+    "plot_directory": "./",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
