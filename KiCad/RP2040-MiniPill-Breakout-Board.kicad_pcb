@@ -223,11 +223,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C915914 (4x)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2abb3fa-400a-4e15-a522-6c52f9a9bf82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/a3b9b383-4393-4c7a-a95e-f8f75e918931")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -1.64 3.52)
 			(end 0.3 3.52)
@@ -1369,11 +1382,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C861451"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc50d291-1483-43f5-96fd-191f80de4f03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6ae8ef46-b519-45bf-974e-faac847a92bb")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start -0.254724 -0.5225)
 			(end 0.254724 -0.5225)
@@ -1572,11 +1598,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C223608"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de846a31-72e0-46ce-9999-5aa9f922d5d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d17c3132-cede-49ee-aa85-4a0c68be44d2")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start -2.21 -1)
 			(end -2.21 1)
@@ -2354,11 +2393,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C861451"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "250b656b-b909-4e5b-840c-fd2c6d92a31e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d3f4819a-f2f9-4741-a580-8e9487a2ed8c")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start -0.254724 -0.5225)
 			(end 0.254724 -0.5225)
@@ -2654,11 +2706,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C2589"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b84a93c7-0316-4366-bfc0-b679afde6873")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/b287c9ef-e92f-4a29-9fa8-fcab0a91afc8")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start 0.76 -1.56)
 			(end 0.76 -0.56)
@@ -2981,11 +3046,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C861451"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ef44e69-036d-472d-a470-52d8cbcff1e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/714e87e7-9ee4-4ca0-bf2f-53a7c7fec186")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start -0.254724 -0.5225)
 			(end 0.254724 -0.5225)
@@ -3183,11 +3261,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C915914 (4x)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7cf27474-e4ce-4c08-90e1-8c2c6c1c1276")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/751dcc2a-202e-42ae-b2e3-0f22eaa7ece8")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -1.64 3.52)
 			(end 0.3 3.52)
@@ -4329,11 +4420,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C22975"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cbfcabc5-3af2-4aee-bd07-7d1d0bf4a800")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fd2753a4-8034-4e1e-8da4-d1ba860ffe4a")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start -0.254724 -0.5225)
 			(end 0.254724 -0.5225)
@@ -4494,7 +4598,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "56"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4530,11 +4634,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C22775"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "440e765d-67b3-4ae2-af52-55856aa40ccb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/560cff2e-f27c-48c5-84f8-8363e1542b92")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start -0.254724 0.5225)
 			(end 0.254724 0.5225)
@@ -4736,7 +4853,7 @@
 		(path "/e0592af5-1566-46d8-8832-b6249d24526e")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -1.33 1.27)
 			(end -1.33 49.59)
@@ -5160,7 +5277,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5196,11 +5313,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf4a779c-f5e7-42e4-908d-a02b59d1253a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9c02516c-f60d-4a17-9dc5-b29726d91970")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start -0.146267 -0.51)
 			(end 0.146267 -0.51)
@@ -5514,7 +5644,7 @@
 		(path "/7e840aec-d541-48cf-b658-a01e31c8800e")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -1.33 1.27)
 			(end -1.33 49.59)
@@ -5963,11 +6093,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C2593"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c4b0303-462a-42f3-a391-564516c03782")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/08aabd83-178b-4017-96b3-5ec7492c0a82")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start 0.76 1.56)
 			(end -0.76 1.56)
@@ -6290,11 +6433,24 @@
 				)
 			)
 		)
+		(property "LCSC" "C22962"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00b962c3-a5e2-4058-93cc-09dc15855949")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9271f069-1d6d-4218-a250-2e33bb30e3fe")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start -0.254724 0.5225)
 			(end 0.254724 0.5225)
@@ -6589,51 +6745,12 @@
 				)
 			)
 		)
-		(property "Sim.Library" "Libraries/spice/TPS3700_TRANS_SIMPL.LIB"
+		(property "LCSC" "C33002"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "988e0c33-c1cc-49e0-814c-12eafecb7be7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Name" "TPS3700_SIMPL"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5728b23e-dfe8-4fd5-a040-31a39fbdb086")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ef54bd29-9a97-4d6b-b802-8e52384659a4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=OUTA 2=GND 3=INA 4=INB 5=VDD 6=OUTB"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a55306a1-7487-4e6b-b80b-a6c1605aa4f7")
+			(uuid "4149c8a3-2ded-49e2-baf6-1d36b653d9fa")
 			(effects
 				(font
 					(size 1 1)
@@ -6645,7 +6762,7 @@
 		(path "/9e75b4f7-932e-439c-88fb-2d2a99279a0e")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start 0 1.56)
 			(end -0.8 1.56)
@@ -8542,10 +8659,24 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C5290181"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "80e342b9-922c-4889-a082-d2cf6a8c6836")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/6e31d5af-b41b-4183-a9bb-71bc5d4c77be")
 		(sheetname "/")
 		(sheetfile "RP2040-MiniPill-Breakout-Board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start 54.62 -8.565)
 			(end -2.62 -8.565)
@@ -9413,7 +9544,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "56"
+		(gr_text "2204.7244"
 			(at 144.2 141.15 0)
 			(layer "Cmts.User")
 			(uuid "0770493f-aeb1-43e8-8bfc-ce1065364307")
@@ -9451,7 +9582,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "4.75"
+		(gr_text "187.0079"
 			(at 137.55 63.825 90)
 			(layer "Cmts.User")
 			(uuid "310fb075-3b11-4e16-af8b-fce77de08ad2")
@@ -9489,7 +9620,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "43.5"
+		(gr_text "1712.5984"
 			(at 144.2 135.65 0)
 			(layer "Cmts.User")
 			(uuid "37c04b10-f9c2-45de-9791-61104e8b39ba")
@@ -9527,7 +9658,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "58"
+		(gr_text "2283.4646"
 			(at 178.05 94.7 90)
 			(layer "Cmts.User")
 			(uuid "4c51b77f-8a2e-4273-b000-60a40d786977")
@@ -9565,7 +9696,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "72"
+		(gr_text "2834.6457"
 			(at 185.15 94.7 90)
 			(layer "Cmts.User")
 			(uuid "8bd5fda0-152a-481a-a26d-d0e5eb16d825")
@@ -9603,7 +9734,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "4.765"
+		(gr_text "187.5984"
 			(at 138.55 120.5675 90)
 			(layer "Cmts.User")
 			(uuid "d2285977-cc87-4e5d-bdaa-92cd624456c4")
@@ -9641,7 +9772,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "22.86"
+		(gr_text "900"
 			(at 144.2 54.1 0)
 			(layer "Cmts.User")
 			(uuid "e9ba9ae6-a354-4eae-83de-03a45d0750ad")
